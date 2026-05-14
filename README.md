@@ -928,7 +928,7 @@ I am a **current M.S. Artificial Intelligence student** (graduating 2027, GPA: 3
 - 🤝 Collaborate on innovative AI solutions with experienced teams
 - 📈 Deliver measurable business impact through ML integration
 
-**📍 Location:** Hollis, NY (Open to remote/hybrid/NYC metro)
+**📍 Location:** NY (Open to remote/hybrid/NYC metro)
 **💼 Availability:** Immediate for internships (CPT eligible)
 **🎓 Education:** M.S. Artificial Intelligence, LIU Brooklyn (Expected 2027)
 **📊 GPA:** 3.9/4.0
