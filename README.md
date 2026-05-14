@@ -22,7 +22,7 @@
 
 ## 📊 **Professional Summary**
 
-Master's student in Artificial Intelligence at **LIU Brooklyn** (GPA: 3.9/4.0) with **8+ years of full-stack development experience** and **25+ implemented AI/ML projects**. Strong foundation in **deep learning, computer vision, NLP, and MLOps**. Proven ability to build production-ready ML systems achieving **90%+ accuracy** and **sub-100ms inference**. Seeking opportunities to bridge the gap between traditional software engineering and cutting-edge AI.
+Master's student in Artificial Intelligence at **LIU Brooklyn** (GPA: 3.9/4.0) with **8+ years of full-stack development experience** and **26+ implemented AI/ML projects**. Strong foundation in **deep learning, computer vision, NLP, and MLOps**. Proven ability to build production-ready ML systems achieving **90%+ accuracy** and **sub-100ms inference**. Seeking opportunities to bridge the gap between traditional software engineering and cutting-edge AI.
 
 ```yaml
 Background:
@@ -30,7 +30,7 @@ Background:
   - Previous: 8+ years Full-Stack Development (2016-2024)
   
 AI/ML Expertise:
-  - 25+ production-grade ML projects (academic + personal)
+  - 26+ production-grade ML projects (academic + personal)
   - 99.38% LFW accuracy | 98.8% GTSRB accuracy
   - 86.55% Q3 accuracy (theoretical limit for protein structure)
   - 95% accuracy for music genre classification
@@ -40,6 +40,15 @@ Technical Strengths:
   - AI/ML: TensorFlow, PyTorch, Scikit-Learn, CNNs, RNNs, NLP
   - MLOps: Docker, FastAPI, Streamlit, Prometheus, Grafana
   - Cloud: AWS, PostgreSQL, MongoDB, Redis
+```
+
+**Key Achievements:**
+- 🏆 99.38% accuracy on LFW benchmark (face recognition)
+- 🏆 98.8% accuracy on GTSRB (traffic sign recognition)  
+- 🏆 86.55% Q3 accuracy for protein structure (theoretical limit)
+- 🏆 0.508°C MAE for weather forecasting (92.7% improvement)
+- 🏆 95% accuracy for music genre classification
+- 💼 8+ years full-stack dev | 50+ web apps delivered | 100% client retention
 
 ---
 
@@ -64,6 +73,7 @@ Technical Strengths:
 | **Databases** | PostgreSQL, Redis, SQLite, MongoDB | 8+ Projects | ⭐⭐⭐⭐ |
 
 ---
+
 ## 🎓 **Education**
 
 | Degree | Institution | Year | GPA |
@@ -104,6 +114,7 @@ Technical Strengths:
 - 🚀 **26 public repositories** showcasing production ML systems
 - 📊 **93%+ average accuracy** across computer vision, NLP, and audio domains
 - 🐳 **100% Dockerized** projects with CI/CD pipelines
+
 ---
 
 ## 🏢 **Academic Research Organizations & Leadership**
@@ -247,9 +258,8 @@ Team: Rupali Shetye & Kartavya Mandora
 | **Security & EdTech (2 Projects)** |
 | 24 | VaultKeeper Password Manager | Security | AES-256 + ML | FastAPI, SQLite |
 | 25 | Student Performance Predictor | EdTech | R²: 0.783 | TensorFlow |
-| **Other ML (1 Project)** |
+| **Other ML (2 Projects)** |
 | 26 | Advanced EMI Calculator ML | FinTech | Loan Approval + Prometheus | ML, Streamlit |
-| **Bonus (1 Project)** |
 | 27 | Wine Quality Prediction (NN from Scratch) | ML | Custom NumPy NN | NumPy, pandas |
 
 ---
@@ -800,13 +810,14 @@ Security:
 
 </div>
 
-- 🎓 **M.S. in Artificial Intelligence** - Long Island University, Brooklyn
+- 🎓 **M.S. in Artificial Intelligence** - Long Island University, Brooklyn (GPA: 3.9/4.0)
 - 📊 **26 Production-Ready ML Systems** deployed with Docker + CI/CD
 - 🔬 **2 Cutting-Edge Research Projects** (Protein Structure Prediction, Sketch2Style)
 - 🏆 **99.38% LFW Accuracy** for Face Recognition
 - 🏆 **98.8% GTSRB Accuracy** for Traffic Signs
 - 🏆 **0.508°C MAE** for Weather Forecasting (92.7% improvement)
 - 🏆 **86.55% Q3 Accuracy** for Protein Structure (Theoretical Limit)
+- 💼 **8+ years full-stack development** | 50+ web apps | 100% client retention
 
 ---
 
@@ -817,8 +828,6 @@ Security:
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ShetyeRupa)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rupa-shetye-598064175)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shetyerupa93@gmail.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-handle)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@your-handle)
 
 </div>
 
@@ -879,7 +888,7 @@ I'm currently preparing in-depth technical content on:
 
 <div align="center">
 
-### 🚀 **26 Production-Grade & Research Systems | 93%+ Average Accuracy | 12+ Domains | MLOps Practitioner | Lead Researcher**
+### 🚀 **27 Production-Grade & Research Systems | 93%+ Average Accuracy | 12+ Domains | MLOps Practitioner | Lead Researcher**
 
 **⭐ Star repositories that add value — it helps others discover quality ML engineering!**
 
@@ -888,10 +897,8 @@ I'm currently preparing in-depth technical content on:
 ---
 
 **📊 Last Updated:** June 2025
-**💻 Total Commits:** 5,000+
-**📁 Total Lines of Code:** 250,000+
+**📁 Total Projects:** 27
 **🔬 Research Papers:** 2 (in progress)
-**🌍 Projects Accessed From:** 25+ countries
 
 ---
 
