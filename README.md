@@ -811,11 +811,8 @@ Tech Stack: NumPy, pandas, scikit-learn (for comparison)
 ![Git](https://img.shields.io/badge/Git-Version%20Control-red?logo=git)
 ![Pytest](https://img.shields.io/badge/Pytest-Testing-blue?logo=pytest)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-CI/CD-black?logo=githubactions)
-```
 
 ---
-
-
 
 ## 📈 **Quality Standards**
 
