@@ -1,9 +1,8 @@
-
 <div align="center">
 
 # 🚀 Rupali Ravindra Shetye
 
-### AI/ML Engineer | Production Systems Specialist | MLOps Practitioner
+### AI/ML Engineer | Production Systems Specialist | MLOps Practitioner | Lead Researcher
 
 [![GitHub followers](https://img.shields.io/github/followers/ShetyeRupa?label=Follow&style=social)](https://github.com/ShetyeRupa)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/rupa-shetye-598064175)
@@ -11,7 +10,11 @@
 [![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:shetyerupa93@gmail.com)
 [![Resume](https://img.shields.io/badge/Resume-Download-orange)](https://github.com/ShetyeRupa/ShetyeRupa/blob/main/resume.pdf)
 
-**`Building Production-Ready AI Systems with Measurable Impact | 24 Production Projects | 93%+ Average Accuracy`**
+[![Bioinformatics Org](https://img.shields.io/badge/Research-Bioinformatics-blue)](https://github.com/AI687-Bioinformatics-Final-Project-2026)
+[![GenAI Org](https://img.shields.io/badge/Research-Generative%20AI-green)](https://github.com/AI688-Final-Project-Spring-2026)
+[![AI Research](https://img.shields.io/badge/Research-Advanced%20AI-red)](https://github.com/AI700-Final-Project-2025)
+
+**`Building Production-Ready AI Systems with Measurable Impact | 24 Production Projects + 2 Research Projects | 93%+ Average Accuracy`**
 
 </div>
 
@@ -37,6 +40,7 @@ Achievements:
   - 0.508°C MAE for weather forecasting (92.7% improvement over baseline)
   - 95% accuracy for music genre classification across 10 genres
   - 99.8% accuracy for heroin consumption prediction
+  - 86.55% Q3 accuracy for protein secondary structure prediction (theoretical limit)
 ```
 
 ---
@@ -47,17 +51,18 @@ Achievements:
 
 | Domain | Technologies | Projects | Proficiency |
 |--------|--------------|----------|-------------|
-| **Computer Vision** | TensorFlow, PyTorch, OpenCV, dlib, YOLO, CNN | 6 Projects | ⭐⭐⭐⭐⭐ |
+| **Computer Vision** | TensorFlow, PyTorch, OpenCV, dlib, YOLO, CNN | 7 Projects | ⭐⭐⭐⭐⭐ |
 | **NLP** | Transformers, BERT, RoBERTa, SpaCy, NLTK, Word2Vec | 5 Projects | ⭐⭐⭐⭐⭐ |
 | **Audio ML** | Librosa, MFCC, Spectrograms, CRNN | 1 Project | ⭐⭐⭐⭐⭐ |
 | **Time Series** | XGBoost, LightGBM, Prophet, LSTM, Ensemble | 1 Project | ⭐⭐⭐⭐ |
-| **Generative AI** | Stable Diffusion, Diffusers, Transformers | 1 Project | ⭐⭐⭐⭐ |
+| **Generative AI** | Stable Diffusion, ControlNet, Diffusers, Transformers | 2 Projects | ⭐⭐⭐⭐⭐ |
 | **Healthcare** | Classification, Risk Prediction, SHAP Explainability | 3 Projects | ⭐⭐⭐⭐⭐ |
 | **Security** | AES-256, JWT, bcrypt, Rate Limiting | 1 Project | ⭐⭐⭐⭐ |
 | **Finance/Fraud** | Anomaly Detection, KNN, Ensemble, SMOTE | 3 Projects | ⭐⭐⭐⭐⭐ |
-| **MLOps** | Docker, MLflow, Prometheus, Grafana, GitHub Actions | 24 Projects | ⭐⭐⭐⭐ |
+| **Bioinformatics** | ESM-2, Protein Language Models, BiLSTM, Attention | 1 Project | ⭐⭐⭐⭐⭐ |
+| **MLOps** | Docker, MLflow, Prometheus, Grafana, GitHub Actions | 26 Projects | ⭐⭐⭐⭐ |
 | **API Development** | FastAPI, REST, WebSockets, OpenAPI | 15+ Projects | ⭐⭐⭐⭐⭐ |
-| **Frontend** | Streamlit, Plotly, Dash, Custom CSS | 20+ Projects | ⭐⭐⭐⭐⭐ |
+| **Frontend** | Streamlit, Plotly, Dash, Gradio, Custom CSS | 22+ Projects | ⭐⭐⭐⭐⭐ |
 | **Databases** | PostgreSQL, Redis, SQLite, MongoDB | 8+ Projects | ⭐⭐⭐⭐ |
 
 ---
@@ -76,44 +81,151 @@ Achievements:
 
 ---
 
-## 🌟 **Complete Project Portfolio (24 Production Systems)**
+## 🏢 **Academic Research Organizations & Leadership**
+
+As **Owner and Lead Researcher** of multiple academic organizations at **LIU Brooklyn**, I lead teams in cutting-edge AI research.
+
+### **Organization Overview**
+
+| Organization | Semester | Focus Area | Role | Projects |
+|--------------|----------|------------|------|----------|
+| **[AI687-Bioinformatics-Final-Project-2026](https://github.com/AI687-Bioinformatics-Final-Project-2026)** | Spring 2026 | Bioinformatics / Protein Structure | Owner & Lead Researcher | 1 |
+| **[AI688-Final-Project-Spring-2026](https://github.com/AI688-Final-Project-Spring-2026)** | Spring 2026 | Generative AI / Computer Vision | Owner & Lead Researcher | 1 |
+| **[AI700-Final-Project-2025](https://github.com/AI700-Final-Project-2025)** | Fall 2025 | Advanced AI | Owner & Lead | 3+ |
+
+---
+
+## 🔬 **Flagship Research Projects**
+
+### 1. 🧬 **Protein Secondary Structure Prediction using ESM-2 + BiLSTM + Multi-Head Attention**
+[![Repo](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/AI687-Bioinformatics-Final-Project-2026/Protein-Secondary-Structure-Prediction-ESM2-BiLSTM-Attention)
+[![Accuracy](https://img.shields.io/badge/Q3_Accuracy-86.55%25-brightgreen)](https://github.com/AI687-Bioinformatics-Final-Project-2026/Protein-Secondary-Structure-Prediction-ESM2-BiLSTM-Attention)
+[![Model](https://img.shields.io/badge/Model-ESM--2-orange)](https://github.com/AI687-Bioinformatics-Final-Project-2026/Protein-Secondary-Structure-Prediction-ESM2-BiLSTM-Attention)
+
+**State-of-the-art protein secondary structure prediction achieving theoretical limit for single-sequence prediction**
+
+```yaml
+Architecture: ESM-2 (650M frozen) → 3×BiLSTM (512) → Multi-Head Attention (8 heads)
+Performance: 
+  - PS4 Test: 86.55% Q3 | MCC: 0.7981
+  - CB513 Zero-Shot: 84.79% (only 1.76% drop)
+  - Helix F1: 0.913 | Strand F1: 0.845 | Coil F1: 0.834
+
+Key Findings:
+  - Matches theoretical limit for single-sequence prediction (~87%)
+  - Proline helix breaker learned: 88.4% accuracy
+  - Optimal capacity: 24.4M parameters
+  - TruMPET replication achieved only 36-40% on single-sequence
+
+Team Contributions:
+  - Rupali Shetye: Architecture Design, Hyperparameter Optimization, Literature Review
+  - Sanyami Chaudhary: Data Acquisition, ESM-2 Integration, Preprocessing
+  - Gaural Makwana: Evaluation Metrics, Benchmarking, TruMPET Replication
+
+Tech Stack: PyTorch, ESM-2, BiLSTM, Multi-Head Attention, Optuna
+```
+
+[📖 Full Research Paper](https://github.com/AI687-Bioinformatics-Final-Project-2026/Protein-Secondary-Structure-Prediction-ESM2-BiLSTM-Attention)
+
+---
+
+### 2. 🎨 **Sketch2Style: Controllable AI Fashion Design System**
+[![Repo](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/AI688-Final-Project-Spring-2026/Sketch2Style-ControlNet-Fashion)
+[![Model](https://img.shields.io/badge/Model-ControlNet+SD1.5-orange)](https://github.com/AI688-Final-Project-Spring-2026/Sketch2Style-ControlNet-Fashion)
+
+**Full fine-tuning of Stable Diffusion + ControlNet for sketch-conditioned fashion generation**
+
+```yaml
+Architecture: Stable Diffusion v1.5 + ControlNet (Canny edge conditioning)
+Training Strategy: FULL UNFREEZE - All 4 components trainable
+  - ControlNet: 1e-6 (361M params)
+  - UNet: 5e-7 (859M params)
+  - Text Encoder: 5e-7 (123M params)
+  - VAE: 1e-7 (83M params)
+  Total: 1.4B parameters (100% trainable)
+
+Performance:
+  - SSIM: 0.2217 (improvement from -0.0024)
+  - CLIP Score: 0.2021 (improvement from 0.1854)
+  - Inference: 2-3 sec on T4 GPU
+
+Dataset: Fashion-MNIST (Dress + Sneaker categories, 12,000 samples)
+Unique Contribution: First implementation with ALL components trainable
+
+Team: Rupali Shetye & Kartavya Mandora
+```
+
+[📖 Full Research Paper](https://github.com/AI688-Final-Project-Spring-2026/Sketch2Style-ControlNet-Fashion)
+
+---
+
+### 👥 **Research Team Leadership**
+
+| Role | Responsibility | Projects |
+|------|----------------|----------|
+| **Architecture Design** | Designed BiLSTM+Attention architecture for protein prediction | Protein PSSP |
+| **Full Model Unfreezing** | Pioneered 100% trainable approach for ControlNet pipeline | Sketch2Style |
+| **Hyperparameter Optimization** | Identified 24.4M parameter sweet spot for protein task | Protein PSSP |
+| **Literature Review** | Comprehensive review of 20+ papers, identified TruMPET replication gap | Protein PSSP |
+| **Team Coordination** | Led 2-3 member teams per project, managed deliverables | Both |
+
+---
+
+### 📊 **Research Impact Summary**
+
+| Metric | Value |
+|--------|-------|
+| **Research Papers** | 2 (in progress) |
+| **Citations in README** | 20+ academic references |
+| **Novel Contributions** | TruMPET replication gap identified, Full ControlNet unfreezing |
+| **Performance Achieved** | Theoretical limit (86.55%) for single-sequence PSSP |
+| **Models Trained** | 1.4B param diffusion model + 24.4M param protein model |
+| **Team Size Led** | 2-3 researchers per project |
+
+---
+
+## 🌟 **Complete Project Portfolio (24 Production Systems + 2 Research Projects)**
 
 ### **📁 Domain-Wise Project Index**
 
 | # | Project | Domain | Key Metric | Tech Stack |
 |---|---------|--------|------------|------------|
-| **Computer Vision (6 Projects)** |
+| **Computer Vision (7 Projects)** |
 | 1 | Face Recognition System | CV | 99.38% LFW | dlib, FastAPI, OpenCV |
 | 2 | Traffic Sign Recognition | CV | 98.8% Accuracy | TensorFlow, CNN |
 | 3 | Handwritten Digit Recognition | CV | CNN + FastAPI | TensorFlow, Streamlit |
 | 4 | CIFAR-10 CNN Classifier | CV | Dual Training Modes | TensorFlow, CNN |
 | 5 | Breast Cancer Classifier | CV/Healthcare | Decision Trees + Bagging | scikit-learn |
 | 6 | Text-to-Image Generator | GenAI | Stable Diffusion | Diffusers, FastAPI |
+| 7 | **Sketch2Style Fashion AI** | **GenAI/CV** | **ControlNet + Full Unfreeze** | **Diffusers, Gradio** |
 | **NLP (5 Projects)** |
-| 7 | Social Media Sentiment Analysis | NLP | RoBERTa + SHAP | Transformers, Redis |
-| 8 | Fake News Detection | NLP | 90%+ Accuracy | PassiveAggressive, TF-IDF |
-| 9 | Spam Email Detector | NLP | 96% Precision | MultinomialNB, SMOTE |
-| 10 | Word Embedding Explorer | NLP | Word2Vec + t-SNE | Gensim, FastAPI |
-| 11 | Local Online Judge | NLP/EdTech | Programming Judge | Python |
-| **Healthcare (3 Projects)** |
-| 12 | Multi-Drug Consumption Prediction | Healthcare | 99.8% (Heroin) | XGBoost, SHAP |
-| 13 | Heart Disease Prediction | Healthcare | Logistic Regression | NumPy (from scratch) |
-| 14 | Breast Cancer Classifier | Healthcare | Bagging Ensemble | scikit-learn |
+| 8 | Social Media Sentiment Analysis | NLP | RoBERTa + SHAP | Transformers, Redis |
+| 9 | Fake News Detection | NLP | 90%+ Accuracy | PassiveAggressive, TF-IDF |
+| 10 | Spam Email Detector | NLP | 96% Precision | MultinomialNB, SMOTE |
+| 11 | Word Embedding Explorer | NLP | Word2Vec + t-SNE | Gensim, FastAPI |
+| 12 | Local Online Judge | NLP/EdTech | Programming Judge | Python |
+| **Healthcare & Bioinformatics (4 Projects)** |
+| 13 | Multi-Drug Consumption Prediction | Healthcare | 99.8% (Heroin) | XGBoost, SHAP |
+| 14 | Heart Disease Prediction | Healthcare | Logistic Regression | NumPy (from scratch) |
+| 15 | Breast Cancer Classifier | Healthcare | Bagging Ensemble | scikit-learn |
+| 16 | **Protein Secondary Structure Prediction** | **Bioinformatics** | **86.55% Q3 Accuracy** | **ESM-2, PyTorch, BiLSTM** |
 | **Finance & Fraud (3 Projects)** |
-| 15 | Credit Card Fraud Detection | Finance | <50ms Inference | ML, SHAP |
-| 16 | Banknote Authentication | Finance | KNN + SHAP | scikit-learn |
-| 17 | Crypto Equity Analyzer | Finance | OOP Analysis | Python |
+| 17 | Credit Card Fraud Detection | Finance | <50ms Inference | ML, SHAP |
+| 18 | Banknote Authentication | Finance | KNN + SHAP | scikit-learn |
+| 19 | Crypto Equity Analyzer | Finance | OOP Analysis | Python |
 | **Audio & Time Series (2 Projects)** |
-| 18 | Music Genre Classification | Audio | 95% Accuracy | TensorFlow, CRNN |
-| 19 | Weather Prediction System | Time Series | 0.508°C MAE | XGBoost, Ensemble |
+| 20 | Music Genre Classification | Audio | 95% Accuracy | TensorFlow, CRNN |
+| 21 | Weather Prediction System | Time Series | 0.508°C MAE | XGBoost, Ensemble |
 | **Recommender & Analytics (2 Projects)** |
-| 20 | Movie Recommendation System | Recommender | IMDB Weighted | FastAPI, Redis |
-| 21 | COVID-19 Data Analysis | Analytics | 4-Page Dashboard | FastAPI, Streamlit |
+| 22 | Movie Recommendation System | Recommender | IMDB Weighted | FastAPI, Redis |
+| 23 | COVID-19 Data Analysis | Analytics | 4-Page Dashboard | FastAPI, Streamlit |
 | **Security & EdTech (2 Projects)** |
-| 22 | VaultKeeper Password Manager | Security | AES-256 + ML | FastAPI, SQLite |
-| 23 | Student Performance Predictor | EdTech | R²: 0.783 | TensorFlow |
+| 24 | VaultKeeper Password Manager | Security | AES-256 + ML | FastAPI, SQLite |
+| 25 | Student Performance Predictor | EdTech | R²: 0.783 | TensorFlow |
 | **Other ML (1 Project)** |
-| 24 | Advanced EMI Calculator ML | FinTech | Loan Approval + Prometheus | ML, Streamlit |
+| 26 | Advanced EMI Calculator ML | FinTech | Loan Approval + Prometheus | ML, Streamlit |
+| **Bonus (1 Project)** |
+| 27 | Wine Quality Prediction (NN from Scratch) | ML | Custom NumPy NN | NumPy, pandas |
 
 ---
 
@@ -273,9 +385,23 @@ Use Case: Educational, coding practice
 
 ---
 
-### **Healthcare & BioInformatics**
+### **Healthcare & Bioinformatics**
 
-#### 12. 🧠 **Multi-Drug Consumption Prediction System**
+#### 12. 🧬 **Protein Secondary Structure Prediction (Research)**
+[![Repo](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/AI687-Bioinformatics-Final-Project-2026/Protein-Secondary-Structure-Prediction-ESM2-BiLSTM-Attention)
+[![Accuracy](https://img.shields.io/badge/Q3_Accuracy-86.55%25-brightgreen)](https://github.com/AI687-Bioinformatics-Final-Project-2026/Protein-Secondary-Structure-Prediction-ESM2-BiLSTM-Attention)
+
+```yaml
+Architecture: ESM-2 (650M) → 3×BiLSTM (512) → Multi-Head Attention (8 heads)
+Performance: 86.55% Q3 (PS4) | 84.79% CB513 | MCC: 0.7981
+Key Finding: Matches theoretical limit for single-sequence prediction
+Tech Stack: PyTorch, ESM-2, BiLSTM, Attention, Optuna
+Team: Rupali Shetye (Lead/Architecture), Sanyami Chaudhary, Gaural Makwana
+```
+
+---
+
+#### 13. 🧠 **Multi-Drug Consumption Prediction System**
 [![Repo](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/ShetyeRupa/drug-consumption-prediction)
 [![Accuracy](https://img.shields.io/badge/Heroin-99.8%25-red)](https://github.com/ShetyeRupa/drug-consumption-prediction)
 
@@ -291,7 +417,7 @@ Substances: 19 drugs (Alcohol, Cannabis, Cocaine, Heroin, LSD, etc.)
 
 ---
 
-#### 13. ❤️ **Heart Disease Prediction**
+#### 14. ❤️ **Heart Disease Prediction**
 [![Repo](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/ShetyeRupa/heart-disease-prediction)
 
 ```yaml
@@ -304,7 +430,7 @@ Unique: Custom SGD implementation without high-level ML libraries
 
 ---
 
-#### 14. 🩺 **Breast Cancer Classifier**
+#### 15. 🩺 **Breast Cancer Classifier**
 [![Repo](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/ShetyeRupa/breast-cancer-classifier)
 
 ```yaml
@@ -319,7 +445,7 @@ Features: Production-ready pipeline, comprehensive evaluation
 
 ### **Finance & Fraud Detection**
 
-#### 15. 💳 **Credit Card Fraud Detection**
+#### 16. 💳 **Credit Card Fraud Detection**
 [![Repo](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/ShetyeRupa/credit-card-fraud-detection)
 
 ```yaml
@@ -332,7 +458,7 @@ Pipeline: Full pipeline from data → training → deployment
 
 ---
 
-#### 16. 💵 **Banknote Authentication Classifier**
+#### 17. 💵 **Banknote Authentication Classifier**
 [![Repo](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/ShetyeRupa/banknote-authentication-classifier)
 [![F1](https://img.shields.io/badge/F1--Score-0.99-brightgreen)](https://github.com/ShetyeRupa/banknote-authentication-classifier)
 
@@ -347,7 +473,7 @@ Data Source: UCI Banknote Authentication Dataset
 
 ---
 
-#### 17. 💰 **Crypto Equity Analyzer**
+#### 18. 💰 **Crypto Equity Analyzer**
 [![Repo](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/ShetyeRupa/Crypto-Equity-Analyzer)
 
 ```yaml
@@ -361,7 +487,7 @@ Tech Stack: Python, OOP principles
 
 ### **Audio & Time Series**
 
-#### 18. 🎵 **Music Genre Classification System**
+#### 19. 🎵 **Music Genre Classification System**
 [![Repo](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/ShetyeRupa/-Music-Genre-Classification-System)
 [![Accuracy](https://img.shields.io/badge/Accuracy-95%25-brightgreen)](https://github.com/ShetyeRupa/-Music-Genre-Classification-System)
 [![Inference](https://img.shields.io/badge/Inference-<20ms-green)](https://github.com/ShetyeRupa/-Music-Genre-Classification-System)
@@ -377,7 +503,7 @@ Monitoring: MLflow, Prometheus metrics, Grafana dashboards
 
 ---
 
-#### 19. ⛅ **Weather Prediction System**
+#### 20. ⛅ **Weather Prediction System**
 [![Repo](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/ShetyeRupa/weather-prediction-system)
 [![MAE](https://img.shields.io/badge/MAE-0.508°C-brightgreen)](https://github.com/ShetyeRupa/weather-prediction-system)
 
@@ -394,7 +520,7 @@ Features: Automated data collection, data drift detection, scheduled retraining
 
 ### **Recommender & Analytics**
 
-#### 20. 🎬 **Movie Recommendation System**
+#### 21. 🎬 **Movie Recommendation System**
 [![Repo](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/ShetyeRupa/Movie-Recommendation-System)
 
 ```yaml
@@ -408,7 +534,7 @@ DevOps: Docker Compose, GitHub Actions CI/CD, Prometheus + Grafana
 
 ---
 
-#### 21. 🦠 **COVID-19 Data Analysis Platform**
+#### 22. 🦠 **COVID-19 Data Analysis Platform**
 [![Repo](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/ShetyeRupa/COVID-19-Data-Analysis-Platform)
 
 ```yaml
@@ -423,7 +549,7 @@ Notebooks: Jupyter notebooks for EDA and analysis
 
 ### **Security & EdTech**
 
-#### 22. 🔐 **VaultKeeper: AI-Powered Password Manager**
+#### 23. 🔐 **VaultKeeper: AI-Powered Password Manager**
 [![Repo](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/ShetyeRupa/-VaultKeeper-Manager-AI-Powered-Password-Manager)
 [![Security](https://img.shields.io/badge/Security-AES%20256-blue)](https://github.com/ShetyeRupa/-VaultKeeper-Manager-AI-Powered-Password-Manager)
 
@@ -438,7 +564,7 @@ Tech Stack: FastAPI, Streamlit, SQLite, scikit-learn, cryptography
 
 ---
 
-#### 23. 🎓 **Student Performance Predictor**
+#### 24. 🎓 **Student Performance Predictor**
 [![Repo](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/ShetyeRupa/Student-Performance-Predictor)
 [![R2](https://img.shields.io/badge/R²-0.783-brightgreen)](https://github.com/ShetyeRupa/Student-Performance-Predictor)
 
@@ -454,7 +580,7 @@ Dataset: UCI Student Performance Dataset
 
 ### **Other ML Systems**
 
-#### 24. 🏦 **Advanced EMI Calculator with ML**
+#### 25. 🏦 **Advanced EMI Calculator with ML**
 [![Repo](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/ShetyeRupa/Advanced-EMI-Calculator-ML)
 
 ```yaml
@@ -467,7 +593,21 @@ Tech Stack: Machine Learning, Python, Streamlit, Prometheus
 
 ---
 
-#### 25. 🍷 **Wine Quality Prediction (NN from Scratch)**
+#### 26. 🎨 **Sketch2Style: AI Fashion Design (Research)**
+[![Repo](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/AI688-Final-Project-Spring-2026/Sketch2Style-ControlNet-Fashion)
+
+```yaml
+Architecture: Stable Diffusion v1.5 + ControlNet (Canny edge conditioning)
+Training: Full unfreeze - 1.4B parameters trainable
+Performance: SSIM: 0.2217 | CLIP: 0.2021
+Dataset: Fashion-MNIST (Dress + Sneaker)
+Tech Stack: Diffusers, Transformers, PyTorch, Gradio
+Team: Rupali Shetye & Kartavya Mandora
+```
+
+---
+
+#### 27. 🍷 **Wine Quality Prediction (NN from Scratch)**
 [![Repo](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/ShetyeRupa/wine-quality-prediction-nn)
 
 ```yaml
@@ -489,7 +629,7 @@ Tech Stack: NumPy, pandas, scikit-learn (for comparison)
 | Traffic Signs | 98.8% | <50ms | GTSRB (43 classes) |
 | Handwritten Digits | 99%+ | Real-time | MNIST (70K images) |
 | CIFAR-10 | High | - | CIFAR-10 (60K images) |
-| Breast Cancer | High | - | Wisconsin Database |
+| Sketch2Style | SSIM: 0.2217 | 2-3 sec | Fashion-MNIST |
 
 ### **NLP & Text Analytics**
 
@@ -500,13 +640,13 @@ Tech Stack: NumPy, pandas, scikit-learn (for comparison)
 | Spam Detection | 96% Precision | MultinomialNB | 5,574 messages |
 | Word Embeddings | Analogy Solving | Word2Vec | Custom corpus |
 
-### **Healthcare**
+### **Healthcare & Bioinformatics**
 
 | Project | Best Performance | Model | Substances/Features |
 |---------|-----------------|-------|---------------------|
 | Drug Consumption | 99.8% (Heroin) | XGBoost/RF/NN | 19 drugs |
+| Protein Structure | 86.55% Q3 | ESM-2 + BiLSTM + Attention | 18,731 proteins |
 | Heart Disease | High | Logistic Regression (from scratch) | Medical parameters |
-| Breast Cancer | High | Bagging Ensemble | Cell features |
 
 ### **Time Series & Audio**
 
@@ -533,6 +673,7 @@ Tech Stack: NumPy, pandas, scikit-learn (for comparison)
 ![Python](https://img.shields.io/badge/Python-3.9+-blue?logo=python)
 ![FastAPI](https://img.shields.io/badge/FastAPI-0.100+-green?logo=fastapi)
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.28+-red?logo=streamlit)
+![Gradio](https://img.shields.io/badge/Gradio-4.0-orange?logo=gradio)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.13-orange?logo=tensorflow)
 ![PyTorch](https://img.shields.io/badge/PyTorch-2.0-red?logo=pytorch)
 
@@ -543,6 +684,11 @@ Tech Stack: NumPy, pandas, scikit-learn (for comparison)
 ![Pandas](https://img.shields.io/badge/Pandas-2.0-blue?logo=pandas)
 ![NumPy](https://img.shields.io/badge/NumPy-1.24-blue?logo=numpy)
 ![SHAP](https://img.shields.io/badge/SHAP-Explainability-blue)
+
+### **Bioinformatics & Generative AI**
+![ESM-2](https://img.shields.io/badge/ESM--2-Protein%20LM-purple)
+![Diffusers](https://img.shields.io/badge/Diffusers-Stable%20Diffusion-orange)
+![ControlNet](https://img.shields.io/badge/ControlNet-Sketch%20Conditioning-red)
 
 ### **MLOps & DevOps**
 ![Docker](https://img.shields.io/badge/Docker-24.0-blue?logo=docker)
@@ -560,10 +706,6 @@ Tech Stack: NumPy, pandas, scikit-learn (for comparison)
 ![OpenCV](https://img.shields.io/badge/OpenCV-4.8-blue?logo=opencv)
 ![Librosa](https://img.shields.io/badge/Librosa-Audio-black)
 ![dlib](https://img.shields.io/badge/dlib-Face%20Recognition-red)
-
-### **Generative AI**
-![Diffusers](https://img.shields.io/badge/Diffusers-Stable%20Diffusion-orange)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-Transformers-yellow)
 
 </div>
 
@@ -616,6 +758,7 @@ Security:
 | **Feature Engineering** | Music Genre (160-dim), Weather (temporal) | Feature importance, PCA, t-SNE |
 | **Model Evaluation** | All projects | Confusion matrices, ROC curves, metrics |
 | **Explainability** | Drug Consumption, Banknote, Sentiment | SHAP summary plots, force plots |
+| **Protein Analysis** | Protein Structure Prediction | Attention heatmaps, per-residue accuracy |
 | **Production Monitoring** | Spam Detector, Fake News | Performance tracking, drift detection |
 
 📂 All notebooks available in respective project repositories
@@ -633,10 +776,12 @@ Security:
 </div>
 
 - 🎓 **M.S. in Artificial Intelligence** - Long Island University, Brooklyn
-- 📊 **24 Production-Ready ML Systems** deployed with Docker + CI/CD
+- 📊 **26 Production-Ready ML Systems** deployed with Docker + CI/CD
+- 🔬 **2 Cutting-Edge Research Projects** (Protein Structure Prediction, Sketch2Style)
 - 🏆 **99.38% LFW Accuracy** for Face Recognition
 - 🏆 **98.8% GTSRB Accuracy** for Traffic Signs
 - 🏆 **0.508°C MAE** for Weather Forecasting (92.7% improvement)
+- 🏆 **86.55% Q3 Accuracy** for Protein Structure (Theoretical Limit)
 
 ---
 
@@ -659,24 +804,27 @@ Security:
 | Aspect | My Approach |
 |--------|-------------|
 | **Production-First** | Every project includes Docker, monitoring, and deployment configs |
+| **Research Excellence** | Achieved theoretical limit for protein structure prediction (86.55% Q3) |
 | **Measurable Impact** | Clear metrics: 95% accuracy, <20ms inference, 0.508°C MAE |
 | **Comprehensive Documentation** | Architecture diagrams, API specs, setup guides, 85%+ test coverage |
 | **Real-World Validation** | Benchmarked on real hardware, tested with production workloads |
 | **Best Practices** | Type hints, testing, CI/CD, structured logging, error handling |
 | **Reproducibility** | Docker containers, environment configs, seed values |
-| **Explainability** | SHAP integration, model interpretability, confidence scores |
+| **Explainability** | SHAP integration, model interpretability, confidence scores, attention visualization |
 | **Security** | JWT auth, rate limiting, encryption, input validation |
+| **Team Leadership** | Led 2-3 member research teams, managed deliverables |
 
 ---
 
 ## 🎯 **Open to Opportunities**
 
-I'm actively seeking **AI/ML Engineer**, **MLOps Engineer**, or **Data Scientist** roles where I can:
+I'm actively seeking **AI/ML Engineer**, **MLOps Engineer**, **Research Scientist**, or **Data Scientist** roles where I can:
 
 - 🚀 Build and deploy production-grade ML systems
+- 🔬 Conduct cutting-edge AI research (Bioinformatics, Generative AI)
 - 📊 Optimize model performance and inference latency
 - 🔧 Implement MLOps best practices (CI/CD, monitoring, versioning)
-- 🤝 Collaborate on innovative AI solutions
+- 🤝 Lead research teams and collaborate on innovative AI solutions
 - 📈 Drive measurable business impact through ML
 - 🏗️ Architect end-to-end ML pipelines from data to deployment
 
@@ -694,6 +842,8 @@ I'm actively seeking **AI/ML Engineer**, **MLOps Engineer**, or **Data Scientist
 - [From Jupyter to Production: MLOps Best Practices]
 - [Optimizing Inference Time: Achieving Sub-20ms with TensorFlow]
 - [SHAP Explainability: Making Black-Box Models Interpretable]
+- [Protein Secondary Structure Prediction: Reaching the Theoretical Limit]
+- [Full Model Unfreezing for ControlNet: A Case Study]
 - [Docker for Data Science: Containerizing ML Workflows]
 <!-- BLOG-POST-LIST:END -->
 
@@ -701,17 +851,18 @@ I'm actively seeking **AI/ML Engineer**, **MLOps Engineer**, or **Data Scientist
 
 <div align="center">
 
-### 🚀 **24 Production-Grade Systems | 93%+ Average Accuracy | 12+ Domains | MLOps Practitioner**
+### 🚀 **26 Production-Grade & Research Systems | 93%+ Average Accuracy | 12+ Domains | MLOps Practitioner | Lead Researcher**
 
 **⭐ Star repositories that add value — it helps others discover quality ML engineering!**
 
-*"Not just notebooks — building AI systems that solve real problems with measurable impact."*
+*"Not just notebooks — building AI systems that solve real problems with measurable impact, and pushing the boundaries of what's theoretically possible."*
 
 ---
 
 **📊 Last Updated:** June 2025
 **💻 Total Commits:** 5,000+
 **📁 Total Lines of Code:** 250,000+
+**🔬 Research Papers:** 2 (in progress)
 **🌍 Projects Accessed From:** 25+ countries
 
 ---
@@ -719,4 +870,3 @@ I'm actively seeking **AI/ML Engineer**, **MLOps Engineer**, or **Data Scientist
 **© 2025 Rupali Ravindra Shetye | Built with ❤️ and Python**
 
 </div>
-
