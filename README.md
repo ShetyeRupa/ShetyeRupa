@@ -80,8 +80,6 @@ Technical Strengths:
 
 **Status:** F-1 Student | CPT Eligible
 
----
-
 ## 📊 **Portfolio at a Glance**
 
 | Metric | Value |
