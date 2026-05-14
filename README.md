@@ -128,7 +128,7 @@ As **Owner and Lead Researcher** of multiple academic organizations at **LIU Bro
 |--------------|----------|------------|------|----------|
 | **[AI687-Bioinformatics-Final-Project-2026](https://github.com/AI687-Bioinformatics-Final-Project-2026)** | Spring 2026 | Bioinformatics / Protein Structure | Owner & Lead Researcher | 1 |
 | **[AI688-Final-Project-Spring-2026](https://github.com/AI688-Final-Project-Spring-2026)** | Spring 2026 | Generative AI / Computer Vision | Owner & Lead Researcher | 1 |
-| **[AI700-Final-Project-2025](https://github.com/AI700-Final-Project-2025)** | Fall 2025 | Advanced AI | Owner & Lead | 3+ |
+| **[AI700-Final-Project-2025](https://github.com/AI700-Final-Project-2025)** | Fall 2025 | Advanced AI | Owner & Lead | 1 |
 
 ---
 
