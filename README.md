@@ -834,18 +834,21 @@ I'm actively seeking **AI/ML Engineer**, **MLOps Engineer**, **Research Scientis
 
 ---
 
-## 📝 **Recent Blog Posts & Articles**
+## 📝 **Coming Soon: Technical Blog & Articles**
 
-<!-- BLOG-POST-LIST:START -->
-- [Building Production ML Systems: Lessons from 24 Deployments]
-- [Feature Engineering for Audio Classification: A Deep Dive into 160-dim Vectors]
-- [From Jupyter to Production: MLOps Best Practices]
-- [Optimizing Inference Time: Achieving Sub-20ms with TensorFlow]
-- [SHAP Explainability: Making Black-Box Models Interpretable]
-- [Protein Secondary Structure Prediction: Reaching the Theoretical Limit]
-- [Full Model Unfreezing for ControlNet: A Case Study]
-- [Docker for Data Science: Containerizing ML Workflows]
-<!-- BLOG-POST-LIST:END -->
+I'm currently preparing in-depth technical content on:
+
+| Topic | Status |
+|-------|--------|
+| Building Production ML Systems: Lessons from 26 Deployments | 📝 Drafting |
+| Feature Engineering for Audio Classification: 160-dim Vectors | 📝 Drafting |
+| From Jupyter to Production: MLOps Best Practices | 🔜 Planned |
+| Optimizing Inference Time: Sub-20ms with TensorFlow | 🔜 Planned |
+| SHAP Explainability: Making Black-Box Models Interpretable | 🔜 Planned |
+| Protein Secondary Structure Prediction: Reaching the Theoretical Limit | 🔜 Planned |
+| Full Model Unfreezing for ControlNet: A Case Study | 🔜 Planned |
+
+*Follow me on [LinkedIn](https://linkedin.com/in/rupa-shetye-598064175) for updates when articles are published.*
 
 ---
 
