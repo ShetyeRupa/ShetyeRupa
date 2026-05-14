@@ -747,6 +747,76 @@ Tech Stack: NumPy, pandas, scikit-learn (for comparison)
 
 ---
 
+## 🧠 **Extended Technical Expertise**
+
+### **LLM, RAG & Agentic AI**
+![LLM](https://img.shields.io/badge/LLM-RAG-blue)
+![LangGraph](https://img.shields.io/badge/LangGraph-Agentic%20AI-green)
+![LangChain](https://img.shields.io/badge/LangChain-Orchestration-orange)
+![Ollama](https://img.shields.io/badge/Ollama-Mistral-purple)
+![GPT-4o](https://img.shields.io/badge/OpenAI-GPT--4o-black)
+![RAGAS](https://img.shields.io/badge/RAGAS-Evaluation-red)
+![HyDE](https://img.shields.io/badge/HyDE-Hypothetical%20Documents-yellow)
+![MMR](https://img.shields.io/badge/MMR-Retrieval-blue)
+
+### **Retrieval, Search & Recommendation**
+![FAISS](https://img.shields.io/badge/FAISS-Vector%20Search-orange)
+![BM25](https://img.shields.io/badge/BM25-Lexical%20Search-blue)
+![Learning to Rank](https://img.shields.io/badge/Learning%20to%20Rank-LightGBM-green)
+![LambdaRank](https://img.shields.io/badge/LambdaRank-Ranking-red)
+![SentenceTransformers](https://img.shields.io/badge/SentenceTransformers-Embeddings-purple)
+![E5-Base-v2](https://img.shields.io/badge/E5--Base--v2-Cross--Encoder-yellow)
+![Hybrid Search](https://img.shields.io/badge/Hybrid%20Search-Vector%2BLexical-blue)
+
+### **Computer Vision & Autonomous Systems**
+![OpenCV](https://img.shields.io/badge/OpenCV-4.8-blue?logo=opencv)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-Face%20Landmarks-green)
+![BEV Perception](https://img.shields.io/badge/BEV%20Perception-Autonomous%20Driving-red)
+![nuScenes](https://img.shields.io/badge/nuScenes-Autonomous%20Driving%20Dataset-orange)
+![Visual Odometry](https://img.shields.io/badge/Visual%20Odometry-SLAM-purple)
+![Structure from Motion](https://img.shields.io/badge/SfM-3D%20Reconstruction-yellow)
+
+### **Speech & Audio AI**
+![Whisper](https://img.shields.io/badge/Whisper-ASR-blue)
+![Faster-Whisper](https://img.shields.io/badge/Faster--Whisper-Optimized%20ASR-green)
+![Coqui TTS](https://img.shields.io/badge/Coqui%20TTS-Text%20to%20Speech-orange)
+![Speech Translation](https://img.shields.io/badge/Speech%20Translation-Multilingual-red)
+
+### **MLOps & Observability**
+![MLflow](https://img.shields.io/badge/MLflow-Experiment%20Tracking-blue)
+![Weights & Biases](https://img.shields.io/badge/Weights%20%26%20Biases-Logging-green)
+![Airflow](https://img.shields.io/badge/Airflow-Pipeline%20Orchestration-orange)
+![Metaflow](https://img.shields.io/badge/Metaflow-Data%20Science%20Framework-purple)
+![Prometheus](https://img.shields.io/badge/Prometheus-Metrics-red)
+![SLOs](https://img.shields.io/badge/SLOs-Quality%20Gates-yellow)
+![Latency Benchmarking](https://img.shields.io/badge/Latency%20Benchmarking-Performance%20Testing-blue)
+
+### **Infrastructure & Deployment**
+![Docker](https://img.shields.io/badge/Docker-Containerization-blue?logo=docker)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-Orchestration-green?logo=kubernetes)
+![Redis](https://img.shields.io/badge/Redis-Caching-red?logo=redis)
+![Kafka](https://img.shields.io/badge/Kafka-Streaming-black?logo=apache-kafka)
+![CoreML](https://img.shields.io/badge/CoreML-Apple%20Silicon-orange)
+![ONNX](https://img.shields.io/badge/ONNX-Model%20Optimization-purple)
+![AWS](https://img.shields.io/badge/AWS-Cloud-yellow?logo=amazon-aws)
+
+### **Data Engineering & Processing**
+![PySpark](https://img.shields.io/badge/PySpark-Big%20Data-orange)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Processing-blue?logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-Scientific%20Computing-blue?logo=numpy)
+![Plotly](https://img.shields.io/badge/Plotly-Visualization-purple)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-Models%20Hub-yellow)
+
+### **Developer Tools & Testing**
+![Git](https://img.shields.io/badge/Git-Version%20Control-red?logo=git)
+![Pytest](https://img.shields.io/badge/Pytest-Testing-blue?logo=pytest)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-CI/CD-black?logo=githubactions)
+```
+
+---
+
+
+
 ## 📈 **Quality Standards**
 
 Every production project includes:
