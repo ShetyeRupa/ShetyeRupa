@@ -66,18 +66,27 @@ Achievements:
 | **Databases** | PostgreSQL, Redis, SQLite, MongoDB | 8+ Projects | ⭐⭐⭐⭐ |
 
 ---
+## 📊 **Portfolio at a Glance**
 
-## 📈 **GitHub Analytics**
+| Metric | Value |
+|--------|-------|
+| **Total Projects** | 26 |
+| **Production Systems** | 24 |
+| **Research Projects** | 2 |
+| **Organizations Led** | 3 |
+| **Average Accuracy** | 93%+ |
+| **Domains Covered** | 12+ |
+| **Dockerized Projects** | 100% |
+| **Test Coverage** | 85%+ |
 
-<div align="center">
+---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShetyeRupa&show_icons=true&theme=radical&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShetyeRupa&layout=compact&theme=radical&hide_border=true)
+## 🔥 **Contribution Highlights**
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ShetyeRupa&theme=radical&hide_border=true)
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ShetyeRupa&theme=radical&hide_border=true)
-
-</div>
+- ✅ **26 public repositories** showcasing production ML systems
+- ✅ **Active contributor** to open-source ML ecosystem
+- ✅ **Lead researcher** for 3 academic organizations at LIU Brooklyn
+- ✅ **Regular commits** across Computer Vision, NLP, and Generative AI projects
 
 ---
 
