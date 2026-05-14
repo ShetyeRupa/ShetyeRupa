@@ -87,6 +87,7 @@ Technical Strengths:
 - Automatic Speech Recognition
 - Data Mining & Exploration
 - AI in Bioinformatics
+- Image and Computer Vision
 
 **Status:** F-1 Student | CPT Eligible
 
