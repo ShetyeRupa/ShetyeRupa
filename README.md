@@ -22,26 +22,24 @@
 
 ## 📊 **Professional Summary**
 
-Results-driven AI/ML Engineer with **4+ years of experience** building production-grade systems across **Computer Vision, NLP, Time Series, Recommender Systems, Security, Healthcare, and Generative AI**. Specialized in **end-to-end ML pipelines**, **model optimization**, and **MLOps best practices**. Proven track record of achieving **90%+ accuracy** and **sub-100ms inference** in real-world deployments.
+Master's student in Artificial Intelligence at **LIU Brooklyn** (GPA: 3.9/4.0) with **8+ years of full-stack development experience** and **25+ implemented AI/ML projects**. Strong foundation in **deep learning, computer vision, NLP, and MLOps**. Proven ability to build production-ready ML systems achieving **90%+ accuracy** and **sub-100ms inference**. Seeking opportunities to bridge the gap between traditional software engineering and cutting-edge AI.
 
 ```yaml
-Core_Strengths:
-  - Production ML: Docker, FastAPI, CI/CD, Monitoring, Prometheus+Grafana
-  - Deep Learning: CNN, RNN/LSTM, Transformers, Autoencoders, Stable Diffusion
-  - Classical ML: Random Forest, XGBoost, LightGBM, SVM, KNN, Naive Bayes
-  - Model Optimization: Quantization, Pruning, TensorRT, ONNX
-  - Feature Engineering: 160-dim audio, FaceNet embeddings, TF-IDF, SHAP
-  - Security: AES-256 encryption, JWT authentication, bcrypt hashing
+Background:
+  - Current: M.S. Artificial Intelligence (2025-2027) | GPA: 3.9/4.0
+  - Previous: 8+ years Full-Stack Development (2016-2024)
   
-Achievements:
-  - 24 production-grade systems with 90%+ accuracy
-  - 99.38% accuracy on LFW benchmark (face recognition)
-  - 98.8% accuracy on GTSRB (traffic sign recognition)
-  - 0.508°C MAE for weather forecasting (92.7% improvement over baseline)
-  - 95% accuracy for music genre classification across 10 genres
-  - 99.8% accuracy for heroin consumption prediction
-  - 86.55% Q3 accuracy for protein secondary structure prediction (theoretical limit)
-```
+AI/ML Expertise:
+  - 25+ production-grade ML projects (academic + personal)
+  - 99.38% LFW accuracy | 98.8% GTSRB accuracy
+  - 86.55% Q3 accuracy (theoretical limit for protein structure)
+  - 95% accuracy for music genre classification
+  
+Technical Strengths:
+  - Full-Stack: React, Next.js, Node.js, Django, Flask (8+ years)
+  - AI/ML: TensorFlow, PyTorch, Scikit-Learn, CNNs, RNNs, NLP
+  - MLOps: Docker, FastAPI, Streamlit, Prometheus, Grafana
+  - Cloud: AWS, PostgreSQL, MongoDB, Redis
 
 ---
 
@@ -66,6 +64,24 @@ Achievements:
 | **Databases** | PostgreSQL, Redis, SQLite, MongoDB | 8+ Projects | ⭐⭐⭐⭐ |
 
 ---
+## 🎓 **Education**
+
+| Degree | Institution | Year | GPA |
+|--------|-------------|------|-----|
+| **M.S. Artificial Intelligence** | Long Island University, Brooklyn | 2025-2027 | 3.9/4.0 |
+| **B.E. Computer Engineering** | Mumbai University, India | 2015 | 3.6/4.0 |
+
+**Relevant Coursework:**
+- Machine Learning & Pattern Recognition
+- Applicable Deep Learning
+- Automatic Speech Recognition
+- Data Mining & Exploration
+- AI in Bioinformatics
+
+**Status:** F-1 Student | CPT Eligible
+
+---
+
 ## 📊 **Portfolio at a Glance**
 
 | Metric | Value |
@@ -827,19 +843,19 @@ Security:
 
 ## 🎯 **Open to Opportunities**
 
-I'm actively seeking **AI/ML Engineer**, **MLOps Engineer**, **Research Scientist**, or **Data Scientist** roles where I can:
+I am a **current M.S. Artificial Intelligence student** (graduating 2027, GPA: 3.9/4.0, CPT eligible) actively seeking **Software Engineering Internship** or **AI/ML Internship** opportunities where I can:
 
-- 🚀 Build and deploy production-grade ML systems
-- 🔬 Conduct cutting-edge AI research (Bioinformatics, Generative AI)
-- 📊 Optimize model performance and inference latency
-- 🔧 Implement MLOps best practices (CI/CD, monitoring, versioning)
-- 🤝 Lead research teams and collaborate on innovative AI solutions
-- 📈 Drive measurable business impact through ML
-- 🏗️ Architect end-to-end ML pipelines from data to deployment
+- 🚀 Apply 8+ years of full-stack experience to build production systems
+- 🧠 Bridge traditional software engineering with cutting-edge AI
+- 🔧 Implement MLOps best practices (CI/CD, monitoring, containerization)
+- 🤝 Collaborate on innovative AI solutions with experienced teams
+- 📈 Deliver measurable business impact through ML integration
 
-**📍 Location:** Brooklyn, NY (Open to remote/hybrid/relocation)
-**💼 Availability:** Immediately
-**🎓 Education:** M.S. Artificial Intelligence, LIU Brooklyn
+**📍 Location:** Hollis, NY (Open to remote/hybrid/NYC metro)
+**💼 Availability:** Immediate for internships (CPT eligible)
+**🎓 Education:** M.S. Artificial Intelligence, LIU Brooklyn (Expected 2027)
+**📊 GPA:** 3.9/4.0
+**💻 Previous Experience:** 8+ years full-stack development
 
 ---
 
