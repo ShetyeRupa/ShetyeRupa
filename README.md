@@ -80,6 +80,8 @@ Technical Strengths:
 
 **Status:** F-1 Student | CPT Eligible
 
+---
+
 ## 📊 **Portfolio at a Glance**
 
 | Metric | Value |
@@ -95,13 +97,13 @@ Technical Strengths:
 
 ---
 
-## 🔥 **Contribution Highlights**
+## 🔥 **Research & Development Highlights**
 
-- ✅ **26 public repositories** showcasing production ML systems
-- ✅ **Active contributor** to open-source ML ecosystem
-- ✅ **Lead researcher** for 3 academic organizations at LIU Brooklyn
-- ✅ **Regular commits** across Computer Vision, NLP, and Generative AI projects
-
+- 🔬 **2 cutting-edge research projects** (Protein Structure Prediction, Sketch2Style)
+- 🏢 **Lead researcher** for 3 academic organizations at LIU Brooklyn
+- 🚀 **26 public repositories** showcasing production ML systems
+- 📊 **93%+ average accuracy** across computer vision, NLP, and audio domains
+- 🐳 **100% Dockerized** projects with CI/CD pipelines
 ---
 
 ## 🏢 **Academic Research Organizations & Leadership**
