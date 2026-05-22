@@ -22,7 +22,7 @@
 
 ## 📊 **Professional Summary**
 
-Master's student in Artificial Intelligence at **LIU Brooklyn** (GPA: 3.9/4.0) with **8+ years of full-stack development experience** and **26+ implemented AI/ML projects**. Strong foundation in **deep learning, computer vision, NLP, and MLOps**. Proven ability to build production-ready ML systems achieving **90%+ accuracy** and **sub-100ms inference**. Seeking opportunities to bridge the gap between traditional software engineering and cutting-edge AI.
+Master's student in Artificial Intelligence at **LIU Brooklyn** (GPA: 3.9/4.0) with **8+ years of full-stack development experience** and **29+ implemented AI/ML projects**. Strong foundation in **deep learning, computer vision, NLP, and MLOps**. Proven ability to build production-ready ML systems achieving **90%+ accuracy** and **sub-100ms inference**. Seeking opportunities to bridge the gap between traditional software engineering and cutting-edge AI.
 
 ```yaml
 Background:
