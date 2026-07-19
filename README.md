@@ -4,7 +4,6 @@
 
 ### AI/ML Engineer | Production Systems Specialist | MLOps Practitioner | Lead Researcher
 
-[![GitHub followers](https://img.shields.io/github/followers/ShetyeRupa?label=Follow&style=social)](https://github.com/ShetyeRupa)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/rupa-shetye-598064175)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green)](https://shetyerupa.github.io)
 [![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:shetyerupa93@gmail.com)
